@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8E940C7B-0198-4D4A-A9D2-455F614BF345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategoryAPI", "Services\CategoryAPI\CategoryAPI.csproj", "{7027F9EF-2FF9-49D2-B433-41E8A9888E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CategoryAPI", "Services\CategoryAPI\CategoryAPI.csproj", "{7027F9EF-2FF9-49D2-B433-41E8A9888E00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
